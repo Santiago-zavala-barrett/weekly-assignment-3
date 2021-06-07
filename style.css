@@ -5,8 +5,8 @@ body { background-color: coral; }
 }
 
 .container {
-  border: 10px solid orange;
-  width: 97%;
+  border: 6px solid orange;
+  width: 98.5%;
   top: 1px;
   left: 1px;
   position: fixed;
